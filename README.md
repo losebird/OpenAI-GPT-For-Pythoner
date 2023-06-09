@@ -1,6 +1,5 @@
-# OpenAI-for-python
-OpenAI GPT For Python Developers
-### 关于本指南
+# OpenAI GPT For Python Developers
+## 关于本指南
 你从本指南中获得的知识将适用于当前版本 (GPT-3)，并且可能也与 GPT-4 相关，如果它被发布的话。
 OpenAI 提供 API（应用程序编程接口）来访问其 AI。 API 的目标是通过为所有版本创建一个通用接口来抽象底层模型，允许用户使用 GPT 而不管其版本。
 本指南的目标是提供通过此 API 在您的项目中使用 GPT-3 的分步指南。本指南还介绍了其他型号，例如 CLIP、DALL-E 和 Whispers。
